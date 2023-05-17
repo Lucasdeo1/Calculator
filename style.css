@@ -1,0 +1,52 @@
+
+.calculator{
+    padding: 20px;
+    background-color: rgb(5, 5, 5);
+    width: 450px;
+    height: 220px;
+    margin: 0 auto;
+    text-align: center;
+    border-radius: 20px 20px 60px 60px;
+}
+
+button{
+    width: 50px;
+    height: 50px;
+    font-size: 40px;
+    margin: 5px;
+}
+
+p{
+    color: #ffee05;
+    position: relative;
+    top: 50%;
+    left: 40%;
+}
+h1{
+    color: rgb(0, 0, 0)
+}
+
+input{
+    text-align: center;
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+    font-size: 18px;
+}
+
+.botoes{
+    height: 135px;
+    background-color: red;
+    border-radius:0px 0px 50px 50px ;
+}
+
+#res{
+    text-align: center;
+    padding-top: 60px;
+    font-size: 32px;
+    font-weight: bolder ;
+}
+
+
+
+
